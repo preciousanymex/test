@@ -1,2 +1,3 @@
 changed by adrian ~ conflict <Precious>changed by feature 2 branch~
 hello from Precious added after source tree
+feature2
